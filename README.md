@@ -19,7 +19,7 @@ equality attachment, no object-follow, and no pose teleport anywhere in the tran
 path. Objects carry real mass, inertia and gravity — if friction is insufficient, the
 object falls and the episode is rejected.
 
-![Front view of the arena: two SO-101 arms at a table with a plate, cutlery, a mug and the pull drawer](images/WhatsApp Image 2026-09-16 at 19.48.02.jpeg)
+![Front view of the arena: two SO-101 arms at a table with a plate, cutlery, a mug and the pull drawer](images/front_image.jpeg)
 
 *The arena from the front. Both arms, the tabletop, the tableware and the pull drawer are
 one MuJoCo scene — the same scene the camera streams are rendered from.*
